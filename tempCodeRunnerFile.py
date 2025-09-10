@@ -1,1 +1,2 @@
-beginArgumentOfLog.append(tmp + 1)
+print("langUser1: ", languageOfFirstUsers)
+                print("langUser2: ", languageOfSecondUsers)
