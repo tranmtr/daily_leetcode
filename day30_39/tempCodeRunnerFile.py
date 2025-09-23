@@ -1,6 +1,2 @@
-print(S.search(1))
-# print(S.rent(0, 1))
-# print(S.rent(1, 2))
-# print(S.report())
-# print(S.drop(1, 2))
-# print(S.search(2))
+
+        while (r1 < len1 and r2 < len2):
